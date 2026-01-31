@@ -15,3 +15,5 @@ To analyze 2022 sales data and identify customer behavior, sales trends, and gro
 
 ## Outcome
 The analysis helped identify high-performing months, customer segments, and sales channels to support data-driven business decisions.
+
+![Vrinda Store Dashboard](vrinda_sales_dashboard_2022.png)
